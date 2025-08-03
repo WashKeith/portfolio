@@ -8,7 +8,7 @@ Python, SQL, R, AWS
 
 ### Work Experience
 Data Science Intern @ Autodesk
-- big impact project 1
+- Chatbot Assistant Analysis & Pattern Detection
 - big impact project 2
 
 Product Management Intern @ Vibes Meet
