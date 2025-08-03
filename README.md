@@ -3,6 +3,9 @@
 ### Education
 BS Data Science & Minor in Computer Science
 
+### Skills
+Python, SQL, R
+
 ### Work Experience
 Data Science Intern @ Autodesk
 - big impact project 1
