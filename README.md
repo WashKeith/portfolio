@@ -4,7 +4,7 @@
 BS Data Science & Minor in Computer Science
 
 ### Skills
-Python, SQL, R
+Python, SQL, R, AWS
 
 ### Work Experience
 Data Science Intern @ Autodesk
